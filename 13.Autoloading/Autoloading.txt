@@ -1,0 +1,2 @@
+Autoloading => proses memanggil class (file) tanpa harus menggunakan require;
+biasanya 1 class di tulis 1 file

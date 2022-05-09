@@ -1,0 +1,3 @@
+setter dan getter
+1. setter digunakan untuk men-set atau mengatur nilai dalam suatu attribute
+2. getter digunakan untuk mendapatkan nilai dari attribute setter tersebut

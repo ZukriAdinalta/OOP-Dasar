@@ -1,0 +1,28 @@
+procedural programming
+1. intruksi dilakuka langkah demi langkah
+2. memecah program menjadi bagian2 kecil
+3. disebut prosedur, subroutine atau function
+4. linear/ top-to-bootom
+5. fortan, ALGOL, COBOL, Pascal, C, PHP, Javascript
+
+kelebihan procedural programming
+1. to the point
+2. simplicity & kemudahan implementasi (utk compiler & interper)
+3. mudah di telusuri
+4. membutuhkan sedikit memory (dibading OOP)
+
+Object Orinted programming
+1. menyusun semua kode program dan struktur data sebagai Object
+2. object adalah unit dasar programan
+3. object menyimpan data dan prilaku
+4. object bisa saling berinteraksi
+5. java, ruby,python, c++, Javascript, PHP
+
+Kelebihan Object Orinted programming
+1. representasi lebih mudah di dunia nyata
+2. Enkapsulasi & abstrak data
+3. reusability
+4. skalabilitas & ekstensibilitas
+5. kemudahan pengelolahan
+6. kolaborasi
+7. digunakan oleh framework

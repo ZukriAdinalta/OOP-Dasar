@@ -1,0 +1,4 @@
+overriding => sebuah istilah kita bisa membuat method di class child walaupun sama dengan nama di class perantnta
+
+parent:: => kita bisa membuat method yang sama dengan perent 
+
